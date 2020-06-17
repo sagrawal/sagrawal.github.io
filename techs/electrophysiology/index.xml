@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electrophysiology on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/electrophysiology/</link>
+    <description>Recent content in electrophysiology on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/electrophysiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Context-dependent proprioceptive encoding</title>
+      <link>https://sagrawal.github.io/portfolio/forward-models/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/forward-models/</guid>
+      <description>Circuits processing proprioceptive information face two important challenges. First, proprioceptive processing must be fast: animals often only have a few hundred milliseconds to integrate information from disparate proprioceptors before relaying that information to motor circuits. Second, proprioceptive processing must be flexible: the influence of proprioceptive feedback should change with behavioral context. For example, when maintaining posture, a high feedback gain will help animals oppose any perturbations. In contrast, when walking, a low feedback gain will allow animals to ignore expected limb movement.</description>
+    </item>
+    
+    <item>
+      <title>Central processing of leg proprioception</title>
+      <link>https://sagrawal.github.io/portfolio/interneurons/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/interneurons/</guid>
+      <description>Proprioception, the sense of body movement and position, is critical for movement in all animals. However, it is perhaps the most poorly understood of the primary senses. In particular, we know very little about how proprioception is processed within circuits of the central nervous system: these circuits are embedded within the vertebrate spinal cord or the analogous invertebrate ventral nerve cord (VNC), where they are difficult to access and record from, we lack knowledge about how these sensorimotor circuits are organized, and there is a paucity of genetic tools that label the relevant cell-types.</description>
+    </item>
+    
+  </channel>
+</rss>

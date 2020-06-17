@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education research on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/education-research/</link>
+    <description>Recent content in education research on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Sat, 02 May 2015 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/education-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active learning reduces learning gaps</title>
+      <link>https://sagrawal.github.io/portfolio/active/</link>
+      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/active/</guid>
+      <description>Low-income and racial and ethnic minority (URM) students are sorely underrepresented in STEM disciplines. Much of this underrepresentation is due to attrition stemming from achievement gaps like lower exam scores and higher failure rates. Changes in course instruction, like a switch to active learning, have been shown to increase performance and passing rates for all students. We wondered whether active learning may disprorportionately benefit URM students.
+As part of this collaborative effort, I read through the educational research literature and coded and quantified those studies that addressed the effect of on student performance when implementating either active learning or traditional lecturing within the same course.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quantitative behavior on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/quantitative-behavior/</link>
+    <description>Recent content in quantitative behavior on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Mon, 02 May 2016 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/quantitative-behavior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sensory cues and courtship</title>
+      <link>https://sagrawal.github.io/portfolio/sensory-cues-and-courtship/</link>
+      <pubDate>Mon, 02 May 2016 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/sensory-cues-and-courtship/</guid>
+      <description>As a graduate student, I built a modifiable, programmable fly dummy that, when coupled with automated behavioral tracking, revealed how male Drosophila melanogaster use visual and chemosensory cues to dynamically modulate their ability to find and chase mates. Drosophila courtship has long been a model for how neural circuits enable complex, sequential behaviors. However, previous courtship studies did not account for how sensory cues are temporally and spatially encountered by male Drosophila during courtship, nor did they measure the effect of visual cues.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/</link>
+    <description>Recent content in Techs on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>computational model-building</title>
+      <link>https://sagrawal.github.io/techs/computational-model-building/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/computational-model-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electrophysiology</title>
+      <link>https://sagrawal.github.io/techs/electrophysiology/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/electrophysiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calcium imaging</title>
+      <link>https://sagrawal.github.io/techs/calcium-imaging/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/calcium-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphology</title>
+      <link>https://sagrawal.github.io/techs/morphology/</link>
+      <pubDate>Mon, 02 May 2016 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantitative behavior</title>
+      <link>https://sagrawal.github.io/techs/quantitative-behavior/</link>
+      <pubDate>Mon, 02 May 2016 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/quantitative-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education research</title>
+      <link>https://sagrawal.github.io/techs/education-research/</link>
+      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/education-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-analysis</title>
+      <link>https://sagrawal.github.io/techs/meta-analysis/</link>
+      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/techs/meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

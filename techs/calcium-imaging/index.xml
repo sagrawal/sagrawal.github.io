@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>calcium imaging on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/calcium-imaging/</link>
+    <description>Recent content in calcium imaging on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/calcium-imaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Central processing of leg proprioception</title>
+      <link>https://sagrawal.github.io/portfolio/interneurons/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/interneurons/</guid>
+      <description>Proprioception, the sense of body movement and position, is critical for movement in all animals. However, it is perhaps the most poorly understood of the primary senses. In particular, we know very little about how proprioception is processed within circuits of the central nervous system: these circuits are embedded within the vertebrate spinal cord or the analogous invertebrate ventral nerve cord (VNC), where they are difficult to access and record from, we lack knowledge about how these sensorimotor circuits are organized, and there is a paucity of genetic tools that label the relevant cell-types.</description>
+    </item>
+    
+  </channel>
+</rss>

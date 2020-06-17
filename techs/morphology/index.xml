@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morphology on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/morphology/</link>
+    <description>Recent content in Morphology on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Mon, 02 May 2016 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/morphology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparative morphology of proprioceptive sensors</title>
+      <link>https://sagrawal.github.io/portfolio/halteres/</link>
+      <pubDate>Mon, 02 May 2016 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/halteres/</guid>
+      <description>One of the primary specializations of true flies (order Diptera) is the modification of the hind wings into club-shaped halteres. Although the halteres do not generate lift, they experience multiple inertial forces during flight. Mechanosensory cells at the haltere base detect the cuticular deformations caused by these forces. This sensory information is sent to motor neurons that steer the wings and stabilize the fly&amp;rsquo;s gaze. If the halteres are removed, flies are unable to maintain stable flight.</description>
+    </item>
+    
+  </channel>
+</rss>
