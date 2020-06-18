@@ -18,16 +18,16 @@
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
       <guid>https://sagrawal.github.io/portfolio/forward-models/</guid>
-      <description>Circuits processing proprioceptive information face two important challenges. First, proprioceptive processing must be fast: animals often only have a few hundred milliseconds to integrate information from disparate proprioceptors before relaying that information to motor circuits. Second, proprioceptive processing must be flexible: the influence of proprioceptive feedback should change with behavioral context. For example, when maintaining posture, a high feedback gain will help animals oppose any perturbations. In contrast, when walking, a low feedback gain will allow animals to ignore expected limb movement.</description>
+      <description>Circuits processing proprioceptive information face two important challenges. First, proprioceptive processing must be fast: animals often only have a few hundred milliseconds to integrate information from disparate proprioceptors before relaying that information to motor circuits. Second, proprioceptive processing must be flexible: the influence of proprioceptive feedback should change with behavioral context. An effective strategy to simultaneously deal with speed and flexibility constraints may be using an efference copy to predict movement outcomes, also known as a forward model.</description>
     </item>
     
     <item>
-      <title>Central processing of leg proprioception</title>
+      <title>Central circuits underlying leg proprioception</title>
       <link>https://sagrawal.github.io/portfolio/interneurons/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
       <guid>https://sagrawal.github.io/portfolio/interneurons/</guid>
-      <description>Proprioception, the sense of body movement and position, is critical for movement in all animals. However, it is perhaps the most poorly understood of the primary senses. In particular, we know very little about how proprioception is processed within circuits of the central nervous system: these circuits are embedded within the vertebrate spinal cord or the analogous invertebrate ventral nerve cord (VNC), where they are difficult to access and record from, we lack knowledge about how these sensorimotor circuits are organized, and there is a paucity of genetic tools that label the relevant cell-types.</description>
+      <description>Proprioception is perhaps the most poorly understood of the primary senses. In particular, we know very little about how proprioception is processed within circuits of the central nervous system: these circuits are embedded within the vertebrate spinal cord or the analogous invertebrate ventral nerve cord (VNC), where they are difficult to access and record from, we don&amp;rsquo;t know much about how these sensorimotor circuits are organized, and we lack quality genetic tools that label the relevant cell-types.</description>
     </item>
     
   </channel>

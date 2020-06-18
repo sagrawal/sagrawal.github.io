@@ -18,78 +18,16 @@
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
       <guid>https://sagrawal.github.io/portfolio/forward-models/</guid>
-      <description>Circuits processing proprioceptive information face two important challenges. First, proprioceptive processing must be fast: animals often only have a few hundred milliseconds to integrate information from disparate proprioceptors before relaying that information to motor circuits. Second, proprioceptive processing must be flexible: the influence of proprioceptive feedback should change with behavioral context. For example, when maintaining posture, a high feedback gain will help animals oppose any perturbations. In contrast, when walking, a low feedback gain will allow animals to ignore expected limb movement.</description>
+      <description>Circuits processing proprioceptive information face two important challenges. First, proprioceptive processing must be fast: animals often only have a few hundred milliseconds to integrate information from disparate proprioceptors before relaying that information to motor circuits. Second, proprioceptive processing must be flexible: the influence of proprioceptive feedback should change with behavioral context. An effective strategy to simultaneously deal with speed and flexibility constraints may be using an efference copy to predict movement outcomes, also known as a forward model.</description>
     </item>
     
     <item>
-      <title>Getting started</title>
-      <link>https://sagrawal.github.io/post/getting-started/</link>
-      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
-      
-      <guid>https://sagrawal.github.io/post/getting-started/</guid>
-      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portfolio Definition</title>
-      <link>https://sagrawal.github.io/post/portfolio-definition/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
-      
-      <guid>https://sagrawal.github.io/post/portfolio-definition/</guid>
-      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://sagrawal.github.io/post/images/portfolio-example.png&#34;
-         alt=&#34;Example of Portfolio page&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Example of Portfolio page&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
-    </item>
-    
-    <item>
-      <title>Central processing of leg proprioception</title>
+      <title>Central circuits underlying leg proprioception</title>
       <link>https://sagrawal.github.io/portfolio/interneurons/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
       <guid>https://sagrawal.github.io/portfolio/interneurons/</guid>
-      <description>Proprioception, the sense of body movement and position, is critical for movement in all animals. However, it is perhaps the most poorly understood of the primary senses. In particular, we know very little about how proprioception is processed within circuits of the central nervous system: these circuits are embedded within the vertebrate spinal cord or the analogous invertebrate ventral nerve cord (VNC), where they are difficult to access and record from, we lack knowledge about how these sensorimotor circuits are organized, and there is a paucity of genetic tools that label the relevant cell-types.</description>
-    </item>
-    
-    <item>
-      <title>Archetypes management</title>
-      <link>https://sagrawal.github.io/post/archetypes/</link>
-      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
-      
-      <guid>https://sagrawal.github.io/post/archetypes/</guid>
-      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shortcodes</title>
-      <link>https://sagrawal.github.io/post/shortcodes/</link>
-      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
-      
-      <guid>https://sagrawal.github.io/post/shortcodes/</guid>
-      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Config File</title>
-      <link>https://sagrawal.github.io/post/config-file/</link>
-      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
-      
-      <guid>https://sagrawal.github.io/post/config-file/</guid>
-      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
-&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Open Graph image</title>
-      <link>https://sagrawal.github.io/post/define-specific-og-image/</link>
-      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
-      
-      <guid>https://sagrawal.github.io/post/define-specific-og-image/</guid>
-      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
-For example, see content/_index.md page:</description>
+      <description>Proprioception is perhaps the most poorly understood of the primary senses. In particular, we know very little about how proprioception is processed within circuits of the central nervous system: these circuits are embedded within the vertebrate spinal cord or the analogous invertebrate ventral nerve cord (VNC), where they are difficult to access and record from, we don&amp;rsquo;t know much about how these sensorimotor circuits are organized, and we lack quality genetic tools that label the relevant cell-types.</description>
     </item>
     
     <item>
@@ -98,7 +36,7 @@ For example, see content/_index.md page:</description>
       <pubDate>Mon, 02 May 2016 19:47:09 +0200</pubDate>
       
       <guid>https://sagrawal.github.io/portfolio/halteres/</guid>
-      <description>One of the primary specializations of true flies (order Diptera) is the modification of the hind wings into club-shaped halteres. Although the halteres do not generate lift, they experience multiple inertial forces during flight. Mechanosensory cells at the haltere base detect the cuticular deformations caused by these forces. This sensory information is sent to motor neurons that steer the wings and stabilize the fly&amp;rsquo;s gaze. If the halteres are removed, flies are unable to maintain stable flight.</description>
+      <description>One of the primary specializations of true flies (order Diptera) is the modification of the hind wings into club-shaped halteres. Although the halteres do not generate lift, they experience multiple inertial forces during flight. Mechanosensory cells at the haltere base, called campaniform sensilla, detect the cuticular deformations caused by these forces. The haltere therefore functions as a proprioceptive organ that is important in flight. If the halteres are removed, flies are unable to maintain stable flight.</description>
     </item>
     
     <item>
@@ -116,7 +54,7 @@ For example, see content/_index.md page:</description>
       <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
       
       <guid>https://sagrawal.github.io/portfolio/active/</guid>
-      <description>Low-income and racial and ethnic minority (URM) students are sorely underrepresented in STEM disciplines. Much of this underrepresentation is due to attrition stemming from achievement gaps like lower exam scores and higher failure rates. Changes in course instruction, like a switch to active learning, have been shown to increase performance and passing rates for all students. We wondered whether active learning may disprorportionately benefit URM students.
+      <description>Low-income and racial and ethnic minority (URM) students are sorely underrepresented in STEM disciplines. Much of this underrepresentation is due to attrition stemming from achievement gaps like lower exam scores and higher failure rates. Changes in course instruction, like a switch to active learning, dramatically increase performance and passing rates for all students. We wondered whether active learning may also disprorportionately benefit URM students.
 As part of this collaborative effort, I read through the educational research literature and coded and quantified those studies that addressed the effect of on student performance when implementating either active learning or traditional lecturing within the same course.</description>
     </item>
     

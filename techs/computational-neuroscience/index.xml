@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational neuroscience on Sweta Agrawal</title>
+    <link>https://sagrawal.github.io/techs/computational-neuroscience/</link>
+    <description>Recent content in computational neuroscience on Sweta Agrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sweta Agrawal</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sagrawal.github.io/techs/computational-neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Context-dependent proprioceptive encoding</title>
+      <link>https://sagrawal.github.io/portfolio/forward-models/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://sagrawal.github.io/portfolio/forward-models/</guid>
+      <description>Circuits processing proprioceptive information face two important challenges. First, proprioceptive processing must be fast: animals often only have a few hundred milliseconds to integrate information from disparate proprioceptors before relaying that information to motor circuits. Second, proprioceptive processing must be flexible: the influence of proprioceptive feedback should change with behavioral context. An effective strategy to simultaneously deal with speed and flexibility constraints may be using an efference copy to predict movement outcomes, also known as a forward model.</description>
+    </item>
+    
+  </channel>
+</rss>
